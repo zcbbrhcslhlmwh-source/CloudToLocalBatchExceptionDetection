@@ -33,3 +33,8 @@
 3. **导入 UiPath**：登录[UiPath Cloud Studio](https://cloud.uipath.com/portal_/cloudrpa)，导入 `.uis` 文件，在 HTTP Activity 中填入你的 ngrok URL
 4. **设置存储**：配置 Google Drive 授权
 5. **设置邮件**：修改发件箱和收件箱地址
+
+##项目演示
+
+![uipath](outcome/outcome_uipathcloudstudioworkflow.png)
+![邮件截图](outcome/outcome_email.png)
