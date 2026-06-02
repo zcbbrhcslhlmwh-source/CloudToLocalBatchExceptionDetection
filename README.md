@@ -1,0 +1,2 @@
+# CloudToLocalBatchExceptionDetection
+用ngrok把本地 fastapi服务暴露到公网，将批处理检测到的异常数据发送给uipath云平台。平台收到数据后自动保存到Google Drive，同时触发邮件报告通知。
